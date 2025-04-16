@@ -37,7 +37,7 @@ module.exports = async (req, res) => {
           "text": prompt
         }
       },
-      "workflowUuid": "dee7984fcace4d40aa8bc99ff6a4dc36"
+      "workflowUuid": "6eea695bb5714337a95da1d72afe96d5"
     }
   };
 
